@@ -1,6 +1,7 @@
 import React from 'react'
-import StateComponent from '../componenets/StateComponent'
-import EffectComponent from '../componenets/EffectComponent'
+import StateComponent from '../components/StateComponent'
+import EffectComponent from '../components/EffectComponent'
+import RefComponent from '../components/RefComponent'
 
 const ReferenceScreen = () => {
     return (
